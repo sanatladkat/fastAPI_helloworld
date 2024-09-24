@@ -1,0 +1,19 @@
+cat
+tabby cat
+tiger cat
+Persian cat
+Siamese cat
+Egyptian cat
+cougar
+lynx
+tiger
+dog
+pug
+Rottweiler
+Chihuahua
+Siberian husky
+Dachshund
+golden retriever
+French bulldog
+Pomeranian
+cocker spaniel

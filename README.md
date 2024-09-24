@@ -2,6 +2,7 @@
 
 ## Related Articles
 Check out my article on Medium for more insights and details about this project:
+
 [Understanding FastAPI and AI Model Serving](https://arsanatl.medium.com/why-fastapi-the-modern-python-web-framework-for-ai-model-serving-604fb46efe80)
 
 This repository contains a FastAPI application that serves multiple pre-trained PyTorch models for image classification and sentiment analysis. The application demonstrates how to create a lightweight REST API that can handle various AI tasks effectively.
